@@ -17,7 +17,7 @@ public class dietPlanPerformance {
         }
         return point;        
     }
-	// Runtime: 1798 ms, faster than 7.48% of Java online submissions for Diet Plan Performance.
+	//Runtime: 1798 ms, faster than 7.48% of Java online submissions for Diet Plan Performance.
 	//Memory Usage: 45.7 MB, less than 45.79% of Java online submissions for Diet Plan Performance.
 	
     public int dietPlanPerformance(int[] calories, int k, int lower, int upper) {
@@ -43,4 +43,6 @@ public class dietPlanPerformance {
         }
         return points;
    }
+   //Runtime: 1 ms, faster than 100.00% of Java online submissions for Diet Plan Performance.
+   //Memory Usage: 45.5 MB, less than 88.79% of Java online submissions for Diet Plan Performance.
 }
