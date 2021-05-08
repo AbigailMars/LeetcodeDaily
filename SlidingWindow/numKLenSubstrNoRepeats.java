@@ -48,7 +48,7 @@ public class numKLenSubstrNoRepeats {
 	    //Runtime: 7 ms, faster than 74.12% of Java online submissions for Find K-Length Substrings With No Repeated Characters.
 	    //Memory Usage: 39.1 MB, less than 31.88% of Java online submissions for Find K-Length Substrings With No Repeated Characters.	
 	    
-	    public int numKLenSubstrNoRepeats(String S, int K) {
+	    public int numKLenSubstrNoRepeats2(String S, int K) {
 	        if(S.length() < K) {
 	            return 0;
 	        }
