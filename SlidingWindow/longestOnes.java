@@ -48,3 +48,4 @@ public class longestOnes{
 	   //visiting every element of array twice, once by left pointer and once by right pointer.
     //Space Complexity: O(1). We do not use any extra space.
 }
+
