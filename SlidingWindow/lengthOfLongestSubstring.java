@@ -1,5 +1,5 @@
 
-public class lengthOfLongestSubstring {
+public class lengthOfLongestSubstring{
 	   public int lengthOfLongestSubstring(String s) {
 	        int start = 0;
 	        int end = 0;
