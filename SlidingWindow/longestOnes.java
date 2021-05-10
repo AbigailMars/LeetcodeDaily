@@ -1,5 +1,5 @@
 
-public class longestOnes {
+public class longestOnes{
 	public int longestOnes(int[] nums, int k) {
         int start = 0;
         int end = 0;
